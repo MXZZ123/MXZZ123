@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:12355B,100:1E90FF&height=190&section=header&text=MXZZ123&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=KSP%20modder%20%E2%80%A2%20rocket%20sims%20%E2%80%A2%20launch-day%20vibes&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:12355B,100:1E90FF&height=190&section=header&text=MXZZ123&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=620&lines=T-10...+ignition+sequence+start;Merlin+engines+at+full+thrust;Stage+separation+confirmed;Entry+burn+startup;Booster+landing+confirmed+%F0%9F%8E%AF" alt="typing banner"/>
 
