@@ -54,7 +54,7 @@ EngineTransients     Merlin start & shutdown   [WIP]
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MXZZ123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=1E90FF&icon_color=1E90FF" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MXZZ123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=1E90FF" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MXZZ123&bg_color=0B0F19&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=MXZZ123&theme=tokyonight&hide_border=true&background=0B0F19&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="Commit streak"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=MXZZ123&color=1E90FF&style=for-the-badge&label=TELEMETRY+PINGS)
 
