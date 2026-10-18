@@ -56,7 +56,7 @@ EngineTransients     Merlin start & shutdown   [WIP]
 
 <img src="https://streak-stats.demolab.com/?user=MXZZ123&theme=tokyonight&hide_border=true&background=0B0F19&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="Commit streak"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=MXZZ123&color=1E90FF&style=for-the-badge&label=TELEMETRY+PINGS)
+<a href="https://github.com/MXZZ123"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMXZZ123&label=TELEMETRY%20PINGS&labelColor=%231b1f24&countColor=%231E90FF&style=for-the-badge" alt="Profile views"/></a>
 
 </div>
 
